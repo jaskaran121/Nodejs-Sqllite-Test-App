@@ -1,4 +1,4 @@
-# Products API Medium
+# Products API Medium.
 
 ## Data:
 Example of a trade data JSON object:
